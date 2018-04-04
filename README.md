@@ -1,6 +1,6 @@
 # Slatin
 
-lavic + Latin.  A simple transliterator from the Roman alphabet to Cyrillic. 
+Slavic + Latin.  A simple transliterator from the Roman alphabet to Cyrillic. 
 
 ![russian](https://raw.githubusercontent.com/veekaybee/slatin/master/russian.png)
 
